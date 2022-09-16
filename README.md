@@ -39,6 +39,3 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv90odFZigOXVqzpieh2RrNhDEB5VRrcZTGyLQ8gLs7fDNii-INElQiTdOe9IDPVq6TR4&usqp=CAU" alt="c" width="40" height="40"/></a></p><br>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gorkemgul&show_icons=true&locale=en&layout=compact" alt="gorkemgul" display="block"/></p>
-
-https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg
-
