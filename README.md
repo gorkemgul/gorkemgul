@@ -13,6 +13,8 @@
 <p align="center" <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" text-align: "center"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"></a> 
+<a href="http://www.cplusplus.org/" target="_blank" rel="noreferrer">
+<img src="https://brandslogos.com/wp-content/uploads/images/large/c-logo.png" alt="cpp" width="35" height="40"/>
 </a> <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
 <img src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" alt="golang" width="30" height="40"/> </a>
 </a> <a href="" target="_blank" rel="noreferrer"> 
