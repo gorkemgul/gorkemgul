@@ -5,7 +5,7 @@
 </p>
 
 - 🔭 I’m currently improving myself in **Data Science, Machine Learning, Deep Learning & Back-End Development, particularly in AI & Computer Vision.**
-- 🌱 I’m currently learning **Advanced TensorFlow & PyTorch Techniques**, **Advanced Learning Algorithms**
+- 🌱 I’m currently learning **Advanced TensorFlow & PyTorch Techniques**, **Advanced Learning Algorithms**, **Modern C++**
 - 💬 Ask me about **C, C++, Python, Golang, Data Science, Machine Learning, Deep Learning and Computer Vision**
 - 📫 How to reach me: **gorkemgul33@gmail.com**
 
