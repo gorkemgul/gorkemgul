@@ -9,7 +9,7 @@
 - 💬 Ask me about **C, C++, Python, Golang, Data Science, Machine Learning, Deep Learning and Computer Vision**
 - 📫 How to reach me: **gorkemgul33@gmail.com**
 
-<h2 align="center">Languages and Tools</h2>
+<h2 align="center">🛠️ Languages and Tools</h2>
 <p align="center" <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" text-align: "center"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"></a> 
