@@ -38,7 +38,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="40" height="40"/> </a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-<a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv90odFZigOXVqzpieh2RrNhDEB5VRrcZTGyLQ8gLs7fDNii-INElQiTdOe9IDPVq6TR4&usqp=CAU" alt="c" width="40" height="40"/></a></p><br>
+<!--<a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv90odFZigOXVqzpieh2RrNhDEB5VRrcZTGyLQ8gLs7fDNii-INElQiTdOe9IDPVq6TR4&usqp=CAU" alt="c" width="40" height="40"/></a></p>--><br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gorkemgul&theme=radical&show_icons=true" alt="gorkemgul" display="block"></p><br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorkemgul&layout=compact&theme=tokyonight" alt="gorkemgul" display="block"/></p>
