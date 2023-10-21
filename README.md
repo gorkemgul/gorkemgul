@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I’m currently improving myself in **Data Science, Machine Learning, Deep Learning & SFM**
-- 🌱 I’m currently learning **Advanced AI Techniques**, **Advanced Learning Algorithms**, **Modern C++**
+- 🌱 I’m currently learning **Advanced AI Techniques**, **Advanced Learning Algorithms**, **Modern C++**, **SLAM & SFM**
 - 💬 Ask me about **C++, Python, Golang, Data Science, Machine Learning, Deep Learning and Computer Vision**
 - 📫 How to reach me: **gorkemgul33@gmail.com**
 
