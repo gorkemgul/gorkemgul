@@ -42,7 +42,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv90odFZigOXVqzpieh2RrNhDEB5VRrcZTGyLQ8gLs7fDNii-INElQiTdOe9IDPVq6TR4&usqp=CAU" alt="c" width="40" height="40"/></a></p>--><br>
 <div align = "center">
 <!--<img width="45%" src="https://github-readme-stats.vercel.app/api?username=gorkemgul&theme=radical&show_icons=true" alt="gorkemgul"/>-->
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=gorkemgul&theme=radical&show_icons=true" alt="gorkemgul"/>
-  <img width ="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=gorkemgul&theme=radical" alt="gorkemgul"/>
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorkemgul&layout=compact&theme=radical" alt="gorkemgul"/>
+  <img width="44%" src="https://github-readme-stats.vercel.app/api?username=gorkemgul&theme=onedark&show_icons=true" alt="gorkemgul"/>
+  <img width ="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=gorkemgul&theme=onedark" alt="gorkemgul"/>
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorkemgul&layout=compact&theme=onedark" alt="gorkemgul"/>
 </div>
