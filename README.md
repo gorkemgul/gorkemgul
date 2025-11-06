@@ -3,8 +3,8 @@
 <p align="center">
   <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="700" height="400" /><br>
   <!--<img src="https://number8.com/wp-content/uploads/2021/01/2021-software-development-salary-trends.png" width="800" height="400">-->
-  <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=gorkemgul&label=Profile%20Views&color=12&icon=6&pretty=true" />
+  <!-- <a href="https://visitcount.itsvg.in">
+      <img src="https://visitcount.itsvg.in/api?id=gorkemgul&label=Profile%20Views&color=12&icon=6&pretty=true" /> -->
 </a>
 </p>
 
