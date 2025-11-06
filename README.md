@@ -16,5 +16,4 @@
 <div align = "center">
   <img width="44%" src="https://github-readme-stats.vercel.app/api?username=gorkemgul&theme=nightowl&show_icons=true" alt="gorkemgul"/>
   <img width ="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=gorkemgul&theme=nightowl" alt="gorkemgul"/>
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorkemgul&layout=compact&theme=nightowl" alt="gorkemgul"/>
 </div>
