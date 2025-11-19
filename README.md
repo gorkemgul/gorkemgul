@@ -76,7 +76,6 @@ I focus on building cutting-edge AI systems across multiple domains, from intell
 
 **Vector Databases & Search**  
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
-![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white)
 
 **MLOps & Deployment**  
