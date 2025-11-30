@@ -112,8 +112,8 @@ I focus on building cutting-edge AI systems across multiple domains, from intell
 ### GitHub Activity
 
 
-<img width="44%" src="https://github-readme-stats.vercel.app/api?username=gorkemgul&theme=nightowl&show_icons=true" alt="gorkemgul"/>
-<img width ="47%" src="https://ghstats.onuralpsezer.com/?user=gorkemgul&theme=nightowl&hide_border=false" alt="gorkemgul"/>
+<img width="47%" src="https://github-readme-stats-five-topaz-76.vercel.app/api?username=gorkemgul&show_icons=true&theme=dark" alt="Görkem's GitHub stats"></img>
+<img width="50%" src="https://ghstats.onuralpsezer.com/?user=gorkemgul&theme=dark&hide_border=false" alt="Görkem's GitHub Streak stats"></img>
 
 
 </div>
