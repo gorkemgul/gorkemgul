@@ -1,136 +1,54 @@
-<!-- <p align="center">
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="700" height="400" /><br>
-  <!--<img src="https://number8.com/wp-content/uploads/2021/01/2021-software-development-salary-trends.png" width="800" height="400">-->
-  <!-- <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=gorkemgul&label=Profile%20Views&color=12&icon=6&pretty=true" /> -->
-<!-- </a>
-</p> -->
-<div align="center"> 
-  
-# Hi 👋, I'm Görkem Gül
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/banner-mobile.svg" />
+    <img src="./assets/banner.svg" alt="Görkem Gül — I like neural networks. A small neural network switching between image, text and audio tasks, next to a smiling neuron holding a tiny black hole." width="100%" />
+  </picture>
+</p>
 
-### AI Researcher & Engineer 
+<h3 align="center">AI Research Engineer</h3>
 
-</div>
+<p align="center">
+  Applied AI, agentic AI, and text-to-image —<br />
+  training, inference, comparison, evaluation, and optimization.
+</p>
 
-## What I'm Working On
+<p align="center">
+  <sub><samp>applied ai &nbsp;·&nbsp; agentic ai &nbsp;·&nbsp; text-to-image &nbsp;·&nbsp; open source</samp></sub>
+</p>
 
-I focus on building cutting-edge AI systems across multiple domains, from intelligent agents to advanced computer vision solutions:
+### 🤖 Agentic AI
 
-**🤖 Large Language Models & Multi-Agent Systems**
-- Architecting LLM and VLLM-powered multi-agent systems with RAG pipelines
-- Building deep search frameworks with browser automation for web intelligence
-- Developing agentic workflows for brand analysis, customer intelligence, and product surveillance
-- Implementing vector search solutions with Qdrant for brand protection and identity linking
-- Creating custom benchmarking pipelines for model evaluation
+<sub>Production agents · source is private.</sub>
 
-**👁️ Computer Vision & Perception**
-- Designing & building custom object detection, classification, segmentation, and instance segmentation models
-- Building medical imaging systems for pathology analysis
-- Developing autonomous vehicle mapping and perception solutions
-- Creating mathematical and photogrammetric algorithms for real-world coordinate transformation
-- Deploying edge AI solutions on embedded systems (Raspberry Pi, Jetson Nano)
-- Building automated annotation pipelines and dataset curation workflows
+- **Seller Analysis Agent** — Seller trust analysis.
 
-**🔬 Currently Exploring**
-- Advanced agentic architectures and multi-agent orchestration
-- Vision-language models (VLLMs) for multimodal understanding
-- Vector search optimization for large-scale similarity problems
-- Real-time inference optimization on edge devices
-- SLAM, SFM, and NeRF techniques for 3D reconstruction
+- **Seller & Product Deep Search Agent** — Seller and brand research across the web.
 
----
+- **Price Analysis Agent** — Product price analysis across markets.
 
-## Technical Stack
+- **Lumos** — Paper and deep research agent.
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+### 🔎 I2T models & training
 
-**AI/ML Frameworks & Libraries**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+<sub>Production services · source is private.</sub>
 
-**Computer Vision Tools**  
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black)
-![MMDetection](https://img.shields.io/badge/MMDetection-0066CC?style=for-the-badge&logoColor=white)
-![Detectron2](https://img.shields.io/badge/Detectron2-0081CB?style=for-the-badge&logoColor=white)
-![Albumentations](https://img.shields.io/badge/Albumentations-FF6F00?style=for-the-badge&logoColor=white)
+- **Permit Reader** — Vehicle registration document reading.
 
-**LLM & Agent Frameworks**  
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-2C5F2D?style=for-the-badge&logoColor=white)
-![LangSmith](https://img.shields.io/badge/LangSmith-000080?style=for-the-badge&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta_LLaMA-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+- **Plate Reader** — License plate recognition.
 
-**Vector Databases & Search**  
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white)
+- **Specimen Signature Reader** — Specimen signature document reading.
 
-**MLOps & Deployment**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Triton](https://img.shields.io/badge/Triton_Inference_Server-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+### 📚 Model & Architecture Catalogs
 
-**Data & Message Queues**  
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+- **[Awesome Text-to-Image Architectures](https://github.com/gorkemgul/awesome-text-to-image-architectures)** — A visual catalog of text-to-image architectures with model diagrams, concise descriptions, and primary sources.
 
-**Cloud Platforms & Services**  
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+### 🛠️ Tools
 
-**Annotation & Visualization**  
-![CVAT](https://img.shields.io/badge/CVAT-0066FF?style=for-the-badge&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-9CDAF0?style=for-the-badge&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
-![ClearML](https://img.shields.io/badge/ClearML-02B39C?style=for-the-badge&logoColor=white)
+- **[MCP Rig](https://github.com/gorkemgul/mcp-rig)** — Deterministic, CI-ready testing for MCP servers: YAML suites, state checks, snapshots, and JUnit reports.
 
-**Hardware & Edge**  
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+### 🌱 Earlier packages
 
----
-
-<div align="center">
-
-### GitHub Activity
-
-
-<img width="47%" src="https://github-readme-stats-five-topaz-76.vercel.app/api?username=gorkemgul&show_icons=true&theme=dark" alt="Görkem's GitHub stats"></img>
-<img width="50%" src="https://ghstats.onuralpsezer.com/?user=gorkemgul&theme=dark&hide_border=false" alt="Görkem's GitHub Streak stats"></img>
-
-
-</div>
-
-
---- 
-
-<div align="center">
-
-### Contact Me 
-
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/gorkemgul)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gorkeemgul)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gorkemgtech@gmail.com)
-
-</div>
-
-<div align="center">
-  <i>Open to collaborations and interesting challenges in AI/ML</i>
-</div>
+- **Detection:** [YOLOv1](https://github.com/gorkemgul/yolov1) · [YOLOv3](https://github.com/gorkemgul/yolov3) · [YOLOv5](https://github.com/native-ai/Yolov5) · YOLOv8
+- **Segmentation:** [UNet](https://github.com/gorkemgul/PyTorch-UNET) · SegNet
+- **Classification:** [VGG-Hub](https://github.com/gorkemgul/VGG-Hub)
+- **Generative:** [PyTorch-GANs](https://github.com/native-ai/PyTorch-GANs)
