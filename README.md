@@ -18,8 +18,6 @@
 
 ### 🤖 Agentic AI
 
-<sub>Production agents · source is private.</sub>
-
 - **Seller Analysis Agent** — Seller trust analysis.
 
 - **Seller & Product Deep Search Agent** — Seller and brand research across the web.
@@ -29,8 +27,6 @@
 - **Lumos** — Paper and deep research agent.
 
 ### 🔎 I2T models & training
-
-<sub>Production services · source is private.</sub>
 
 - **Permit Reader** — Vehicle registration document reading.
 
