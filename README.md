@@ -42,6 +42,10 @@
 
 - **[MCP Rig](https://github.com/gorkemgul/mcp-rig)** — Deterministic, CI-ready testing for MCP servers: YAML suites, state checks, snapshots, and JUnit reports.
 
+### 🤝 Open-source contributions
+
+- **[Diffusers #15184](https://github.com/huggingface/diffusers/pull/15184)** — Fixed gradient clipping that silently never ran in the LoRA training examples.
+
 ### 🌱 Earlier packages
 
 - **Detection:** [YOLOv1](https://github.com/gorkemgul/yolov1) · [YOLOv3](https://github.com/gorkemgul/yolov3) · [YOLOv5](https://github.com/native-ai/Yolov5) · YOLOv8
